@@ -1,4 +1,4 @@
-package scr.entities;
+package entities;
 
 public class Calculator {
 

@@ -1,8 +1,8 @@
-package scr.application;
+package application;
 
 import java.util.Scanner;
 
-import scr.entities.Calculator;
+import entities.Calculator;
 
 public class Program {
 
