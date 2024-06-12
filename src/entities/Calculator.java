@@ -1,3 +1,5 @@
+package scr.entities;
+
 public class Calculator {
 
     private double number;

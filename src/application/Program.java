@@ -1,8 +1,10 @@
+package scr.application;
 
 import java.util.Scanner;
 
-public class Main {
+import scr.entities.Calculator;
 
+public class Program {
 
 public static void main(String[] args) {
   Calculator myCalc = new Calculator();
